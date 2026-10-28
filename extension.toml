@@ -1,0 +1,7 @@
+id = "ember-dark"
+name = "Ember Dark"
+version = "0.1.0"
+schema_version = 1
+authors = ["Soe Wai Yan Aung <soewaiyanag@gmail.com>"]
+description = "A neutral near-black dark theme with soft warm accents and an off-white cursor."
+repository = "https://github.com/soewaiyanag/zed-ember-dark"
